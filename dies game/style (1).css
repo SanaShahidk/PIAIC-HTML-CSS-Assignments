@@ -1,0 +1,39 @@
+*{
+    margin: o;
+    padding: 0;
+    font-family: 'Acme', sans-serif;
+}
+body{
+    background-color:rgb(41, 145, 145);
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    
+    margin: 20px;
+    text-shadow: 5px 3px white;
+    font-size: 4rem;
+    color: #f6b93b;
+}
+p{
+    font-size: 2rem;
+    color: #ffb6c1;
+    text-shadow: 1px 1px white;
+}
+button{
+    margin-top: 6px;
+    padding: 8px;
+    background-color: #d4909a;
+    color: white;
+    border-color: aliceblue;
+}
+img{
+    width: 80%;
+}
